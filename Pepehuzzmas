@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PEPEHUZZMAS</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #e74c3c;
+      text-shadow: 2px 2px 5px #000;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    img {
+      margin-top: 20px;
+      max-width: 100%;
+      border: 5px solid #e74c3c;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to the World of PEPEHUZZMAS!</h1>
+  <p>Once upon a time, in the magical land of Meme Valley, Pepe the Frog found himself surrounded by a team of merry holiday divas. Together, they created the ultimate memecoin: <b>PEPEHUZZMAS</b>. This coin wasn’t just any cryptocurrency—it was powered by the spirit of laughter and joy that spread faster than holiday cheer.</p>
+  <p>PEPEHUZZMAS became the most beloved token of the season. Every transaction added a sprinkle of festive lights to the blockchain, and every holder received a virtual Christmas hug from Pepe himself. Join the revolution and make this holiday unforgettable with <b>PEPEHUZZMAS</b>!</p>
+  <img src="uploaded_image.jpg" alt="PEPEHUZZMAS Holiday Party">
+</body>
+</html>
